@@ -84,6 +84,6 @@ strcpy(mapa[4].exercito, "Branco");       mapa[4].tropas = 2;
     free(mapa);
     printf("Memoria liberada. Fim de jogo!\n");
 
-    
+
     return 0;
 }
